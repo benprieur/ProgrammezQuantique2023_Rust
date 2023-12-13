@@ -1,1 +1,1 @@
-Code relatif à l'article *Informatique quantique et langage Rust, une rapide exploration* du hors-série numéro 13 du magazine *Programmez!* (*Les révolutions de l'informatique quantique*), pp. 58-61, décembre 2023.
+Code relatif à l'article *Informatique quantique et langage Rust, une rapide exploration* du hors-série numéro 13 (*Les révolutions de l'informatique quantique*), du magazine *Programmez!*, pp. 58-61, décembre 2023.
